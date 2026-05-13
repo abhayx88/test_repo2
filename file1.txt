@@ -1,2 +1,7 @@
 line1
+<<<<<<< HEAD
 This is master branch
+=======
+line2 added
+This is test branch
+>>>>>>> test
